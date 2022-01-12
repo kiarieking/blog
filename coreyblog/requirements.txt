@@ -34,7 +34,7 @@ onboard==1.4.1
 PAM==0.4.2
 pexpect==4.2.1
 Pillow==6.0.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 protobuf==3.0.0
 psutil==5.4.2
 psycopg2==2.8.5
